@@ -8,6 +8,7 @@ public class HwSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HwSpringApplication.class, args);
+		System.out.println("Home Work Spring");
 	}
 
 }
